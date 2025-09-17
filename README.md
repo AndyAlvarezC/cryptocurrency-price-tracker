@@ -1,61 +1,61 @@
-# 💰 Cotizador de Criptomonedas en Tiempo Real
+# 💰 Real-Time Cryptocurrency Price Tracker
 
-**Descripción:**  
-Aplicación web que permite consultar precios de criptomonedas en tiempo real. Utiliza APIs para obtener información actualizada y ofrece una experiencia rápida y responsive.
+**Description:**  
+Web application that allows you to check cryptocurrency prices in real time. Uses APIs to fetch up-to-date information and provides a fast and responsive user experience.
 
 ---
 
-## 🛠 Tecnologías
+## 🛠 Technologies
 
-| Tecnología   | Uso                                           |
+| Technology   | Usage                                           |
 |------------|-----------------------------------------------|
-| Vite       | Configuración del proyecto y bundling         |
-| React      | Componentes y UI                              |
-| TypeScript | Tipado estático y seguridad en el código     |
-| Axios      | Llamadas HTTP a APIs externas                 |
-| Zustand    | Gestión de estado global                      |
-| Zod        | Validación de datos de API                    |
-| React Hooks| `useState`, `useMemo`, `useEffect` para lógica reactiva |
+| Vite       | Project setup and bundling                     |
+| React      | Components and UI                              |
+| TypeScript | Static typing and code safety                  |
+| Axios      | HTTP requests to external APIs                 |
+| Zustand    | Global state management                        |
+| Zod        | API data validation                             |
+| React Hooks| `useState`, `useMemo`, `useEffect` for reactive logic |
 
 ---
 
 ## ⚡ Demo
 
-[Ver proyecto en vivo](https://cryptocurrency-price-tracker-live.vercel.app/) 🌐
+[View live project](https://cryptocurrency-price-tracker-live.vercel.app/) 🌐
 
 ---
 
-## 💻 Instalación Rápida
+## 💻 Quick Installation
 
-1. **Clonar repositorio:**
+1. **Clone the repository:**
 ```bash
 git clone https://github.com/AndyAlvarezC/cryptocurrency-price-tracker.git
 ````
 
-2. **Entrar a la carpeta del proyecto:**
+2. **Enter the project folder:**
 ```bash
 cd cryptocurrency-price-tracker
 ```
 
-3. **Instalar dependencias:**
+3. **Install dependencies:**
 ```bash
 npm install
 ````
 
-4. **Iniciar servidor de desarrollo:**
+4. **Start development server:**
 ```bash
 npm run dev
 ````
 
-5. **Abrir en el navegador:**
+5. **Open in browser:**
 ```bash
 http://localhost:5173
 ````
 
-## ✨ Características Principales
+## ✨ Main Features
 
-- **Consulta de precios** de criptomonedas en tiempo real  
-- **Validación de datos** con Zod  
-- **Gestión de estado** eficiente con Zustand  
-- **Interfaz rápida y responsiva**  
-- **Llamadas a APIs externas** optimizadas con Axios
+- **Real-time cryptocurrency price tracking**  
+- **Data validation** with Zod  
+- **Efficient state management** with Zustand  
+- **Fast and responsive interface**  
+- **Optimized external API calls** with Axios
